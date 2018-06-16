@@ -30,8 +30,8 @@
 
 #include <SPI.h>
 #include <bitBangedSPI.h>
-#include <MAX7219_Dot_Matrix.h>
-#include <MAX7219_Dot_Matrix_font.h>
+#include <MAX7219_Dot_Matrix_w.h>
+#include <MAX7219_Dot_Matrix_font_w.h>
 
 /*
 
